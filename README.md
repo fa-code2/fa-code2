@@ -40,8 +40,7 @@ print(me.tagline())
 
 </div>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [🚀 **Mastering Databases the Smart Way: No Jargon, Just Clarity**](https://medium.com/@faaa367810/mastering-databases-the-smart-way-no-jargon-just-clarity-d71e36081c64?source=rss-21d9fb4ed86e------2) - **- [🚀 **Integrating Medium Blog into My Portfolio Website — Here’s the Cleanest Way to Do It &lpar;Step-by-Step&rpar;**](https://medium.com/@faaa367810/integrating-medium-blog-into-my-portfolio-website-heres-the-cleanest-way-to-do-it-step-by-step-65cbb4f25708?source=rss-21d9fb4ed86e------2) - **- [🚀 **Why OOP Finally Clicked for Me And How you Can Learn It Too.**](https://medium.com/@faaa367810/why-oop-finally-clicked-for-me-and-how-you-can-learn-it-too-85d3165f258d?source=rss-21d9fb4ed86e------2) - **<!-- BLOG-POST-LIST:END -->
 <div align="center">
   
 [![Read on Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faaa367810)
