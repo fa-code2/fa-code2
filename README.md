@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```python
 class Developer:
@@ -22,7 +22,7 @@ class Developer:
         self.traits = ["Cheerful", "Passionate", "Always Learning"]
         
     def tagline(self):
-        return "Discover smarter tech with me 🚀"
+        return "Discover smarter tech with me "
 
 me = Developer()
 print(me.tagline())
@@ -30,19 +30,47 @@ print(me.tagline())
 
 ---
 
-## 📝 Latest Blog Posts
+##  Latest Blog Posts
 
 <div align="center">
 
 ### 🌟 Sharing My Student Developer Journey
-
 *Writing about code, concepts & the student developer journey*
 
 </div>
 
-<!-- BLOG-POST-LIST:START -->- [🚀 **Mastering Databases the Smart Way: No Jargon, Just Clarity**](https://medium.com/@faaa367810/mastering-databases-the-smart-way-no-jargon-just-clarity-d71e36081c64?source=rss-21d9fb4ed86e------2) - **- [🚀 **Integrating Medium Blog into My Portfolio Website — Here’s the Cleanest Way to Do It &lpar;Step-by-Step&rpar;**](https://medium.com/@faaa367810/integrating-medium-blog-into-my-portfolio-website-heres-the-cleanest-way-to-do-it-step-by-step-65cbb4f25708?source=rss-21d9fb4ed86e------2) - **- [🚀 **Why OOP Finally Clicked for Me And How you Can Learn It Too.**](https://medium.com/@faaa367810/why-oop-finally-clicked-for-me-and-how-you-can-learn-it-too-85d3165f258d?source=rss-21d9fb4ed86e------2) - **<!-- BLOG-POST-LIST:END -->
+<!-- Enhanced Blog Section with Images -->
+<table align="center">
+<tr>
+<td width="400px" align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*IdZCuEtY0FNxiH7Lbe75dg.jpeg" width="300px" alt="Database Blog" />
+<br/>
+<b><a href="https://medium.com/@faaa367810/mastering-databases-the-smart-way-no-jargon-just-clarity-d71e36081c64">🗄 Mastering Databases the Smart Way</a></b>
+<br/>
+<i>No Jargon, Just Clarity</i>
+</td>
+
+<td width="400px" align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*HSesK6ve9UL2jGM_krsEdw.png" width="380px" alt="Portfolio Integration Blog" />
+<br/>
+<b><a href="https://medium.com/@faaa367810/integrating-medium-blog-into-my-portfolio-website-heres-the-cleanest-way-to-do-it-step-by-step-65cbb4f25708"> Portfolio Website Integration</a></b>
+<br/>
+<i>Clean & Step-by-Step Guide</i>
+</td>
+
+<td width="400px" align="center">
+<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*BSSuKHLraDTEytFsYwZm5Q.png" width="380px" alt="OOP Blog" />
+<br/>
+<b><a href="https://medium.com/@faaa367810/why-oop-finally-clicked-for-me-and-how-you-can-learn-it-too-85d3165f258d"> Why OOP Finally Clicked</a></b>
+<br/>
+<i>And How You Can Learn It Too</i>
+</td>
+</tr>
+</table>
+
 <div align="center">
-  
+<br/>
+
 [![Read on Medium](https://img.shields.io/badge/Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faaa367810)
 [![Follow on Medium](https://img.shields.io/badge/Follow_Me-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@faaa367810)
 
@@ -50,7 +78,7 @@ print(me.tagline())
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ### Languages
 
@@ -75,7 +103,7 @@ print(me.tagline())
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fa-code2&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
@@ -91,7 +119,7 @@ print(me.tagline())
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
