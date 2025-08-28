@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&width=600&lines=Passionate+Learner+%7C+Tech+Explorer;AI+%26+Web+Development+Enthusiast;Discover+Smarter+Tech+With+Me!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F199E5FF&width=600&lines=Passionate+Learner+%7C+Tech+Explorer;AI+%26+Web+Development+Enthusiast;Discover+Smarter+Tech+With+Me!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,6 +27,17 @@ class Developer:
 me = Developer()
 print(me.tagline())
 ```
+
+---
+
+##  Let's Connect!
+<a href="https://app.daily.dev/fatimaaslam"><img src="https://api.daily.dev/devcards/v2/mTEKmIiBfbIUE4EKIFnZx.png?type=default&r=w3j" width="356" alt="Fatima Aslam's Dev Card"/></a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fa-aslam/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](faaa367810@gmail.com)
+
+</div>
 
 ---
 
@@ -118,17 +129,3 @@ print(me.tagline())
 </p>
 
 ---
-
-##  Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fa-aslam/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](faaa367810@gmail.com)
-
-</div>
-
----
-
-⭐️ From [Fatima Aslam](https://github.com/fa-code2)
-
